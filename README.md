@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F339850%2Fexpress-js&psig=AOvVaw2spCfIHDE10yeWzKPCzQO9&ust=1750697459367000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi3sdWyvoWOAxV83TgGHbiEHpcQjRx6BAgAEBk" alt="Express" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
