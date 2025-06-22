@@ -42,9 +42,13 @@
   <a href="https://twitter.com/bhar4tsingh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bharat-singh-1288a4254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+</a>&nbsp;&nbsp;
   <a href="https://instagram.com/bharat.rajputt8" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
+  
 </p>
 
 ---
