@@ -27,12 +27,12 @@
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on **Appointment App**
-- 🌱 I’m learning **Express.js, Node.js, Vite, PostgreSQL, Go, JavaScript**
-- 👯 I’m looking to collaborate on **Backend-heavy applications**
-- 💬 Ask me about **Authentication, Middleware, Database, REST APIs, Postman**
+- 🔭 I’m currently working on **Building Scalable APIs and Performance**
+- 🌱 I’m learning **Express.js, Node.js, Vite, PostgreSQL,MongoDB, JavaScript and TypeScript**
+- 👯 I’m looking to collaborate on **Scalable Backend applications**
+- 💬 Ask me about **Authentication, Middleware, Database, REST APIs**
 - 📫 How to reach me: **bharattsingh33@gmail.com**
-- ⚡ Fun fact: **Selected in MP Super100**
+- ⚡ Fun fact: **I don't use cursor**
 
 ---
 
