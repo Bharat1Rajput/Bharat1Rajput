@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bharat Singh Rajput</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Backend Engineer from India</h3>
 
 <!-- Coding Image -->
 <p align="center">
@@ -19,7 +19,7 @@
 <!-- Twitter Badge -->
 <p align="center">
   <a href="https://twitter.com/rajputtwt" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/bhar4tsingh?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/rajputtwt?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ### 🔥 About Me
 
 - 🔭 I’m currently working on **Building Scalable APIs and Performance**
-- 🌱 I’m learning **Express.js, Node.js, Vite, PostgreSQL,MongoDB, JavaScript and TypeScript**
+- 🌱 I’m learning **GoLang, gRPC, Express.js, Node.js, Vite, PostgreSQL,MongoDB, JavaScript and TypeScript**
 - 👯 I’m looking to collaborate on **Scalable Backend applications**
 - 💬 Ask me about **Authentication, Middleware, Database, REST APIs**
 - 📫 How to reach me: **bharattsingh33@gmail.com**
@@ -56,6 +56,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
@@ -76,14 +77,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat1rajput&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<a href="https://github.com/Bharat1Rajput">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bharat1Rajput&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharat1Rajput&layout=compact&langs_count=8&theme=algolia"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat1rajput&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat1rajput&" alt="GitHub Streak" />
-</p>
