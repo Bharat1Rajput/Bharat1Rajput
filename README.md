@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bharat+Singh+Rajput!;Backend+Developer+%7C+MERN+Stack+%7C+DSA+Lover;Let%E2%80%99s+Build+Something+Great+Together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bharat+Singh+Rajput!;Backend+Developer;Let%E2%80%99s+Build+Something+Great+Together" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bharat Singh Rajput</h1>
@@ -42,7 +42,7 @@
   <a href="https://twitter.com/rajputtwt" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bharat-singh-1288a4254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/bharat-singh-1288a4254" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
 </a>&nbsp;&nbsp;
   <a href="https://instagram.com/bharat.rajputt8" target="_blank">
@@ -72,6 +72,13 @@
 </p>
 
 ---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 📊 GitHub Stats
 
