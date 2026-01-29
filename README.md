@@ -76,12 +76,8 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/Bharat1Rajput/Bharat1Rajput/output/snake-dark.svg">
-  <img alt="GitHub Snake Animation" 
-       src="https://raw.githubusercontent.com/Bharat1Rajput/Bharat1Rajput/output/snake.svg">
-</picture>
+![GitHub Snake Animation](https://raw.githubusercontent.com/Bharat1Rajput/Bharat1Rajput/output/snake.svg)
+
 
 
 
