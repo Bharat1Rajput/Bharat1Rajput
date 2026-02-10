@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bharat Singh Rajput</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
+<h3 align="center">Go Backend Engineer from India</h3>
 
 <!-- Coding Image -->
 <p align="center">
@@ -28,11 +28,11 @@
 ### 🔥 About Me
 
 - 🔭 I’m currently working on **Building Scalable APIs and Performance**
-- 🌱 I’m learning **GoLang, gRPC, Express.js, Node.js, Vite, PostgreSQL,MongoDB, JavaScript and TypeScript**
-- 👯 I’m looking to collaborate on **Scalable Backend applications**
-- 💬 Ask me about **Authentication, Middleware, Database, REST APIs**
+- 🌱 My Stack **GoLang, PostgreSQL, MongoDB, Redis, JWT, Async Processing, Rest APIs, Node,Express**
+- 👯 I’m looking to collaborate on **Scalable Backend System**
+- 💬 Ask me about **System Design and Trade-Offs**
 - 📫 How to reach me: **bharattsingh33@gmail.com**
-- ⚡ Fun fact: **I don't use cursor**
+- ⚡ Fun fact: **I Write Boring Code**
 
 ---
 
